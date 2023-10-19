@@ -22,5 +22,4 @@ The agent avoids the body of the snake and finds a fast way to the apples, after
 
 ![end_game](./end.gif)
 
-### Issues & Suggestions
-If any issues and suggestions to me, you can create an [issue](https://github.com/Siddhant-Agarwal4583/DQN_Agent_Snake_Game/issues).
+
